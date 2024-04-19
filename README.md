@@ -42,5 +42,5 @@ Para los desarrolladores de juegos, entender estas dinámicas puede ayudar a bal
 - Características y Roles: Los Pokémon legendarios, como Lugia y Ho-Oh, poseen estadísticas superiores y habilidades únicas que los hacen extremadamente raros y potentes en combates. Estos Pokémon a menudo juegan papeles clave en las historias de los juegos, representando desafíos y logros significativos para los jugadores.
 - Impacto en Estrategias de Juego: Debido a su poder y habilidades únicas, los Pokémon legendarios pueden influir significativamente en las estrategias de combate, a menudo siendo el foco en torneos y combates competitivos.
 
-Conclusión
+# Conclusión
 Estos insights ofrecen una mirada profunda a cómo las características de los Pokémon han evolucionado y cómo ciertos Pokémon se destacan significativamente de otros, ya sea por su estatus legendario o por características únicas que los convierten en outliers. Estas observaciones no solo añaden riqueza al análisis, sino que también pueden ayudar a los jugadores a entender mejor las dinámicas de los juegos de Pokémon y cómo pueden utilizar estos conocimientos en su beneficio.
